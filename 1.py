@@ -11,3 +11,5 @@ I love you very much!
 How about the weather today?
 
 """)
+
+st.title("🎈 My new Streamlit app")
